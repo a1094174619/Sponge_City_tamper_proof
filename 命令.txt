@@ -1,0 +1,2 @@
+miner.exe -s 127.0.0.1:8888 -st "2019-11-20 00:00:00" -et "2019-11-22 00:00:00" -d C:\Users\JC\Desktop\data\xls -sp BlockSlice.bin
+validate.exe -d C:\Users\JC\Desktop\data\xls -sp G:\go_projects\haimian\BlockSlice.bin
